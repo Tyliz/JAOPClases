@@ -1,3 +1,7 @@
+# Version 0.1.0
+
+Clases hasta la session 8
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
